@@ -61,5 +61,6 @@
   <li>
     <strong>Teléfono:</strong> 
     <a href="tel:+34644887255">
-      <p>644 88 72 55</p></a></li>
+      <p>644 88 72 55</p></a>
+  </li>
 </ul>
