@@ -47,17 +47,19 @@
 ###
 
 <h3 align="left">🔗 Conéctate conmigo:</h3>
-
-###
-
-<p align="left">Email: ismaelrodcuenca@gmail.com</p>
-
-###
-
-<p align="left">LinkedIn: ismaelrodcuenca</p>
-
-###
-
-<p align="left">Teléfono: 644 88 72 55</p>
-
-###
+<ul>
+  <li>
+    <strong>Email: </strong>
+    <a align="left" href="mailto:ismaelrodcuenca@gmail.com">
+      <p>ismaelrodcuenca@gmail.com</p></a>
+  </li>
+  <li>
+    <strong>LinkedIn:</strong> 
+    <a href="https://www.linkedin.com/in/ismaelrodcuenca/">
+      <p>ismaelrodcuenca</p></a>
+  </li>
+  <li>
+    <strong>Teléfono:</strong> 
+    <a href="tel:+34644887255">
+      <p>644 88 72 55</p></a></li>
+</ul>
